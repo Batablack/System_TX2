@@ -1,0 +1,1535 @@
+[2022-09-29 14:38:47.918] [HttpServer] [info] url:http://0.0.0.0:8102
+[2022-09-29 14:38:47.919] [HttpServer] [info] wait listen
+[2022-09-29 14:39:38.769] [HttpServer] [info] method: POST
+[2022-09-29 14:39:38.773] [HttpServer] [info] uri: /
+[2022-09-29 14:45:04.185] [HttpServer] [info] url:http://0.0.0.0:8102
+[2022-09-29 14:45:04.185] [HttpServer] [info] wait listen
+[2022-09-29 14:45:15.779] [HttpServer] [info] method: POST
+[2022-09-29 14:45:15.782] [HttpServer] [info] uri: /
+[2022-09-29 14:51:34.140] [HttpServer] [info] url:http://0.0.0.0:8102
+[2022-09-29 14:51:34.141] [HttpServer] [info] ev : 1
+[2022-09-29 14:51:34.141] [HttpServer] [info] wait listen
+[2022-09-29 14:51:35.150] [HttpServer] [info] ev : 2
+[2022-09-29 14:51:36.153] [HttpServer] [info] ev : 2
+[2022-09-29 14:51:37.156] [HttpServer] [info] ev : 2
+[2022-09-29 14:51:38.158] [HttpServer] [info] ev : 2
+[2022-09-29 14:51:39.160] [HttpServer] [info] ev : 2
+[2022-09-29 14:51:40.163] [HttpServer] [info] ev : 2
+[2022-09-29 14:51:40.954] [HttpServer] [info] ev : 2
+[2022-09-29 14:51:40.956] [HttpServer] [info] ev : 1
+[2022-09-29 14:51:40.956] [HttpServer] [info] ev : 5
+[2022-09-29 14:51:40.957] [HttpServer] [info] ev : 2
+[2022-09-29 14:51:40.958] [HttpServer] [info] ev : 6
+[2022-09-29 14:51:40.959] [HttpServer] [info] ev : 9
+[2022-09-29 14:51:40.959] [HttpServer] [info] method: POST
+[2022-09-29 14:51:40.959] [HttpServer] [info] uri: /
+[2022-09-29 14:51:40.960] [HttpServer] [info] ev : 2
+[2022-09-29 14:51:41.961] [HttpServer] [info] ev : 2
+[2022-09-29 14:51:41.963] [HttpServer] [info] ev : 2
+[2022-09-29 14:51:42.966] [HttpServer] [info] ev : 2
+[2022-09-29 14:51:42.968] [HttpServer] [info] ev : 2
+[2022-09-29 14:51:43.971] [HttpServer] [info] ev : 2
+[2022-09-29 14:51:43.972] [HttpServer] [info] ev : 2
+[2022-09-29 14:51:44.975] [HttpServer] [info] ev : 2
+[2022-09-29 14:51:44.976] [HttpServer] [info] ev : 2
+[2022-09-29 14:51:45.978] [HttpServer] [info] ev : 2
+[2022-09-29 14:51:45.990] [HttpServer] [info] ev : 2
+[2022-09-29 14:51:46.992] [HttpServer] [info] ev : 2
+[2022-09-29 14:51:46.994] [HttpServer] [info] ev : 2
+[2022-09-29 14:51:47.996] [HttpServer] [info] ev : 2
+[2022-09-29 14:51:47.997] [HttpServer] [info] ev : 2
+[2022-09-29 14:51:48.642] [HttpServer] [info] ev : 2
+[2022-09-29 14:51:48.643] [HttpServer] [info] ev : 2
+[2022-09-29 14:51:48.644] [HttpServer] [info] ev : 1
+[2022-09-29 14:51:48.645] [HttpServer] [info] ev : 5
+[2022-09-29 14:51:48.645] [HttpServer] [info] ev : 2
+[2022-09-29 14:51:48.646] [HttpServer] [info] ev : 6
+[2022-09-29 14:51:48.647] [HttpServer] [info] ev : 9
+[2022-09-29 14:51:48.647] [HttpServer] [info] method: POST
+[2022-09-29 14:51:48.648] [HttpServer] [info] uri: /
+[2022-09-29 14:51:48.648] [HttpServer] [info] ev : 2
+[2022-09-29 14:51:48.649] [HttpServer] [info] ev : 2
+[2022-09-29 14:51:49.650] [HttpServer] [info] ev : 2
+[2022-09-29 14:51:49.652] [HttpServer] [info] ev : 2
+[2022-09-29 14:51:49.652] [HttpServer] [info] ev : 2
+[2022-09-29 14:51:50.656] [HttpServer] [info] ev : 2
+[2022-09-29 14:51:50.658] [HttpServer] [info] ev : 2
+[2022-09-29 14:51:50.658] [HttpServer] [info] ev : 2
+[2022-09-29 14:51:51.661] [HttpServer] [info] ev : 2
+[2022-09-29 14:51:51.673] [HttpServer] [info] ev : 2
+[2022-09-29 14:51:51.673] [HttpServer] [info] ev : 2
+[2022-09-29 14:51:52.676] [HttpServer] [info] ev : 2
+[2022-09-29 14:51:52.677] [HttpServer] [info] ev : 2
+[2022-09-29 14:51:52.678] [HttpServer] [info] ev : 2
+[2022-09-29 14:51:53.680] [HttpServer] [info] ev : 2
+[2022-09-29 14:51:53.681] [HttpServer] [info] ev : 2
+[2022-09-29 14:51:53.681] [HttpServer] [info] ev : 2
+[2022-09-29 14:51:54.683] [HttpServer] [info] ev : 2
+[2022-09-29 14:51:54.684] [HttpServer] [info] ev : 2
+[2022-09-29 14:51:54.684] [HttpServer] [info] ev : 2
+[2022-09-29 14:51:55.686] [HttpServer] [info] ev : 2
+[2022-09-29 14:51:55.686] [HttpServer] [info] ev : 2
+[2022-09-29 14:51:55.686] [HttpServer] [info] ev : 2
+[2022-09-29 14:51:56.689] [HttpServer] [info] ev : 2
+[2022-09-29 14:51:56.701] [HttpServer] [info] ev : 2
+[2022-09-29 14:51:56.701] [HttpServer] [info] ev : 2
+[2022-09-29 14:51:57.703] [HttpServer] [info] ev : 2
+[2022-09-29 14:51:57.706] [HttpServer] [info] ev : 2
+[2022-09-29 14:51:57.706] [HttpServer] [info] ev : 2
+[2022-09-29 14:51:58.708] [HttpServer] [info] ev : 2
+[2022-09-29 14:51:58.710] [HttpServer] [info] ev : 2
+[2022-09-29 14:51:58.710] [HttpServer] [info] ev : 2
+[2022-09-29 14:51:59.058] [HttpServer] [info] ev : 2
+[2022-09-29 14:51:59.058] [HttpServer] [info] ev : 2
+[2022-09-29 14:51:59.060] [HttpServer] [info] ev : 2
+[2022-09-29 14:51:59.060] [HttpServer] [info] ev : 2
+[2022-09-29 14:51:59.061] [HttpServer] [info] ev : 8
+[2022-09-29 14:51:59.062] [HttpServer] [info] ev : 2
+[2022-09-29 14:51:59.063] [HttpServer] [info] ev : 8
+[2022-09-29 14:51:59.063] [HttpServer] [info] ev : 2
+[2022-09-29 14:51:59.064] [HttpServer] [info] ev : 8
+[2022-09-29 15:22:20.960] [HttpServer] [info] url:http://0.0.0.0:8102
+[2022-09-29 15:22:20.960] [HttpServer] [info] ev : 1
+[2022-09-29 15:22:20.960] [HttpServer] [info] wait listen
+[2022-09-29 15:22:21.963] [HttpServer] [info] ev : 2
+[2022-09-29 15:22:22.967] [HttpServer] [info] ev : 2
+[2022-09-29 15:22:23.546] [HttpServer] [info] ev : 2
+[2022-09-29 15:22:23.548] [HttpServer] [info] ev : 1
+[2022-09-29 15:22:23.548] [HttpServer] [info] ev : 5
+[2022-09-29 15:22:23.548] [HttpServer] [info] ev : 2
+[2022-09-29 15:22:23.549] [HttpServer] [info] ev : 6
+[2022-09-29 15:22:23.549] [HttpServer] [info] ev : 9
+[2022-09-29 15:22:23.550] [HttpServer] [info] method: OPTIONS
+[2022-09-29 15:22:23.550] [HttpServer] [info] uri: /connectTest
+[2022-09-29 15:22:23.550] [HttpServer] [info] ------------connectTest-------------
+[2022-09-29 15:22:23.552] [HttpServer] [info] ev : 2
+[2022-09-29 15:22:23.552] [HttpServer] [info] ev : 2
+[2022-09-29 15:22:23.553] [HttpServer] [info] ev : 7
+[2022-09-29 15:22:23.553] [HttpServer] [info] ev : 2
+[2022-09-29 15:22:23.556] [HttpServer] [info] ev : 2
+[2022-09-29 15:22:23.556] [HttpServer] [info] ev : 6
+[2022-09-29 15:22:23.556] [HttpServer] [info] ev : 9
+[2022-09-29 15:22:23.556] [HttpServer] [info] method: POST
+[2022-09-29 15:22:23.556] [HttpServer] [info] uri: /connectTest
+[2022-09-29 15:22:23.556] [HttpServer] [info] ------------connectTest-------------
+[2022-09-29 15:22:23.556] [HttpServer] [info] ------------body: 1664436143
+[2022-09-29 15:22:23.557] [HttpServer] [info] time_now: Thu Sep 29 15:22:23 2022
+
+[2022-09-29 15:22:23.557] [HttpServer] [info] ev : 2
+[2022-09-29 15:22:23.557] [HttpServer] [info] ev : 2
+[2022-09-29 15:22:23.557] [HttpServer] [info] ev : 7
+[2022-09-29 15:22:23.557] [HttpServer] [info] ev : 2
+[2022-09-29 15:22:24.559] [HttpServer] [info] ev : 2
+[2022-09-29 15:22:24.560] [HttpServer] [info] ev : 2
+[2022-09-29 15:22:24.816] [HttpServer] [info] ev : 2
+[2022-09-29 15:22:24.816] [HttpServer] [info] ev : 6
+[2022-09-29 15:22:24.817] [HttpServer] [info] ev : 9
+[2022-09-29 15:22:24.817] [HttpServer] [info] method: POST
+[2022-09-29 15:22:24.818] [HttpServer] [info] uri: /connectTest
+[2022-09-29 15:22:24.818] [HttpServer] [info] ------------connectTest-------------
+[2022-09-29 15:22:24.819] [HttpServer] [info] ------------body: 1664436144
+[2022-09-29 15:22:24.820] [HttpServer] [info] time_now: Thu Sep 29 15:22:24 2022
+
+[2022-09-29 15:22:24.820] [HttpServer] [info] ev : 2
+[2022-09-29 15:22:24.821] [HttpServer] [info] ev : 2
+[2022-09-29 15:22:24.822] [HttpServer] [info] ev : 7
+[2022-09-29 15:22:24.822] [HttpServer] [info] ev : 2
+[2022-09-29 15:22:25.551] [HttpServer] [info] ev : 2
+[2022-09-29 15:22:25.552] [HttpServer] [info] ev : 6
+[2022-09-29 15:22:25.553] [HttpServer] [info] ev : 9
+[2022-09-29 15:22:25.553] [HttpServer] [info] method: POST
+[2022-09-29 15:22:25.554] [HttpServer] [info] uri: /connectTest
+[2022-09-29 15:22:25.554] [HttpServer] [info] ------------connectTest-------------
+[2022-09-29 15:22:25.554] [HttpServer] [info] ------------body: 1664436145
+[2022-09-29 15:22:25.555] [HttpServer] [info] time_now: Thu Sep 29 15:22:25 2022
+
+[2022-09-29 15:22:25.556] [HttpServer] [info] ev : 2
+[2022-09-29 15:22:25.556] [HttpServer] [info] ev : 2
+[2022-09-29 15:22:25.557] [HttpServer] [info] ev : 7
+[2022-09-29 15:22:25.557] [HttpServer] [info] ev : 2
+[2022-09-29 15:22:26.560] [HttpServer] [info] ev : 2
+[2022-09-29 15:22:26.561] [HttpServer] [info] ev : 2
+[2022-09-29 15:22:27.563] [HttpServer] [info] ev : 2
+[2022-09-29 15:22:27.564] [HttpServer] [info] ev : 2
+[2022-09-29 15:22:28.566] [HttpServer] [info] ev : 2
+[2022-09-29 15:22:28.566] [HttpServer] [info] ev : 2
+[2022-09-29 15:22:28.724] [HttpServer] [info] ev : 2
+[2022-09-29 15:22:28.725] [HttpServer] [info] ev : 6
+[2022-09-29 15:22:28.726] [HttpServer] [info] ev : 9
+[2022-09-29 15:22:28.726] [HttpServer] [info] method: OPTIONS
+[2022-09-29 15:22:28.727] [HttpServer] [info] uri: /connectTest
+[2022-09-29 15:22:28.728] [HttpServer] [info] ------------connectTest-------------
+[2022-09-29 15:22:28.728] [HttpServer] [info] ev : 2
+[2022-09-29 15:22:28.728] [HttpServer] [info] ev : 2
+[2022-09-29 15:22:28.730] [HttpServer] [info] ev : 7
+[2022-09-29 15:22:28.730] [HttpServer] [info] ev : 2
+[2022-09-29 15:22:28.731] [HttpServer] [info] ev : 2
+[2022-09-29 15:22:28.731] [HttpServer] [info] ev : 6
+[2022-09-29 15:22:28.731] [HttpServer] [info] ev : 9
+[2022-09-29 15:22:28.732] [HttpServer] [info] method: POST
+[2022-09-29 15:22:28.732] [HttpServer] [info] uri: /connectTest
+[2022-09-29 15:22:28.733] [HttpServer] [info] ------------connectTest-------------
+[2022-09-29 15:22:28.734] [HttpServer] [info] ------------body: 1664436148
+[2022-09-29 15:22:28.734] [HttpServer] [info] time_now: Thu Sep 29 15:22:28 2022
+
+[2022-09-29 15:22:28.734] [HttpServer] [info] ev : 2
+[2022-09-29 15:22:28.735] [HttpServer] [info] ev : 2
+[2022-09-29 15:22:28.735] [HttpServer] [info] ev : 7
+[2022-09-29 15:22:28.735] [HttpServer] [info] ev : 2
+[2022-09-29 15:22:29.737] [HttpServer] [info] ev : 2
+[2022-09-29 15:22:29.738] [HttpServer] [info] ev : 2
+[2022-09-29 15:22:30.740] [HttpServer] [info] ev : 2
+[2022-09-29 15:22:30.742] [HttpServer] [info] ev : 2
+[2022-09-29 15:22:31.743] [HttpServer] [info] ev : 2
+[2022-09-29 15:22:31.744] [HttpServer] [info] ev : 2
+[2022-09-29 15:22:32.746] [HttpServer] [info] ev : 2
+[2022-09-29 15:22:32.748] [HttpServer] [info] ev : 2
+[2022-09-29 15:22:33.750] [HttpServer] [info] ev : 2
+[2022-09-29 15:22:33.752] [HttpServer] [info] ev : 2
+[2022-09-29 15:22:34.333] [HttpServer] [info] ev : 2
+[2022-09-29 15:22:34.334] [HttpServer] [info] ev : 6
+[2022-09-29 15:22:34.337] [HttpServer] [info] ev : 9
+[2022-09-29 15:22:34.337] [HttpServer] [info] method: OPTIONS
+[2022-09-29 15:22:34.337] [HttpServer] [info] uri: /connectTest
+[2022-09-29 15:22:34.337] [HttpServer] [info] ------------connectTest-------------
+[2022-09-29 15:22:34.338] [HttpServer] [info] ev : 2
+[2022-09-29 15:22:34.339] [HttpServer] [info] ev : 2
+[2022-09-29 15:22:34.340] [HttpServer] [info] ev : 7
+[2022-09-29 15:22:34.340] [HttpServer] [info] ev : 2
+[2022-09-29 15:22:34.342] [HttpServer] [info] ev : 2
+[2022-09-29 15:22:34.343] [HttpServer] [info] ev : 6
+[2022-09-29 15:22:34.343] [HttpServer] [info] ev : 9
+[2022-09-29 15:22:34.344] [HttpServer] [info] method: POST
+[2022-09-29 15:22:34.344] [HttpServer] [info] uri: /connectTest
+[2022-09-29 15:22:34.344] [HttpServer] [info] ------------connectTest-------------
+[2022-09-29 15:22:34.344] [HttpServer] [info] ------------body: 1664436154
+[2022-09-29 15:22:34.344] [HttpServer] [info] time_now: Thu Sep 29 15:22:34 2022
+
+[2022-09-29 15:22:34.345] [HttpServer] [info] ev : 2
+[2022-09-29 15:22:34.345] [HttpServer] [info] ev : 2
+[2022-09-29 15:22:34.345] [HttpServer] [info] ev : 7
+[2022-09-29 15:22:34.345] [HttpServer] [info] ev : 2
+[2022-09-29 15:22:34.737] [HttpServer] [info] ev : 2
+[2022-09-29 15:22:34.739] [HttpServer] [info] ev : 6
+[2022-09-29 15:22:34.740] [HttpServer] [info] ev : 9
+[2022-09-29 15:22:34.740] [HttpServer] [info] method: OPTIONS
+[2022-09-29 15:22:34.741] [HttpServer] [info] uri: /addChipUser
+[2022-09-29 15:22:34.741] [HttpServer] [info] ------------addChipUser-------------
+[2022-09-29 15:22:34.743] [HttpServer] [info] bmessage: OPTIONS /addChipUser HTTP/1.1
+Host: 180.201.13.217:8102
+Connection: keep-alive
+Accept: */*
+Access-Control-Request-Method: POST
+Access-Control-Request-Headers: content-type
+Origin: http://180.201.4.171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+Sec-Fetch-Mode: cors
+Referer: http://180.201.4.171/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+
+[2022-09-29 15:22:34.744] [HttpServer] [info] body: 
+[2022-09-29 15:27:35.305] [HttpServer] [info] url:http://0.0.0.0:8102
+[2022-09-29 15:27:35.305] [HttpServer] [info] ev : 1
+[2022-09-29 15:27:35.305] [HttpServer] [info] wait listen
+[2022-09-29 15:27:36.307] [HttpServer] [info] ev : 2
+[2022-09-29 15:27:37.310] [HttpServer] [info] ev : 2
+[2022-09-29 15:27:38.313] [HttpServer] [info] ev : 2
+[2022-09-29 15:27:39.316] [HttpServer] [info] ev : 2
+[2022-09-29 15:27:40.322] [HttpServer] [info] ev : 2
+[2022-09-29 15:27:41.326] [HttpServer] [info] ev : 2
+[2022-09-29 15:27:42.329] [HttpServer] [info] ev : 2
+[2022-09-29 15:27:43.332] [HttpServer] [info] ev : 2
+[2022-09-29 15:27:44.334] [HttpServer] [info] ev : 2
+[2022-09-29 15:27:45.337] [HttpServer] [info] ev : 2
+[2022-09-29 15:27:46.339] [HttpServer] [info] ev : 2
+[2022-09-29 15:27:47.341] [HttpServer] [info] ev : 2
+[2022-09-29 15:27:48.344] [HttpServer] [info] ev : 2
+[2022-09-29 15:27:49.346] [HttpServer] [info] ev : 2
+[2022-09-29 15:27:50.348] [HttpServer] [info] ev : 2
+[2022-09-29 15:27:51.352] [HttpServer] [info] ev : 2
+[2022-09-29 15:27:52.355] [HttpServer] [info] ev : 2
+[2022-09-29 15:27:53.359] [HttpServer] [info] ev : 2
+[2022-09-29 15:27:54.362] [HttpServer] [info] ev : 2
+[2022-09-29 15:27:55.365] [HttpServer] [info] ev : 2
+[2022-09-29 15:27:56.367] [HttpServer] [info] ev : 2
+[2022-09-29 15:27:57.369] [HttpServer] [info] ev : 2
+[2022-09-29 15:27:58.373] [HttpServer] [info] ev : 2
+[2022-09-29 15:27:59.375] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:00.378] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:01.381] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:02.384] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:03.387] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:04.391] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:05.393] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:06.395] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:07.397] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:08.399] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:09.402] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:10.406] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:11.410] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:12.413] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:13.416] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:14.419] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:15.423] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:16.425] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:17.427] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:18.430] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:19.431] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:20.435] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:21.439] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:21.727] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:21.728] [HttpServer] [info] ev : 1
+[2022-09-29 15:28:21.729] [HttpServer] [info] ev : 5
+[2022-09-29 15:28:21.729] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:21.730] [HttpServer] [info] ev : 6
+[2022-09-29 15:28:21.732] [HttpServer] [info] ev : 9
+[2022-09-29 15:28:21.732] [HttpServer] [info] method: OPTIONS
+[2022-09-29 15:28:21.732] [HttpServer] [info] uri: /connectTest
+[2022-09-29 15:28:21.733] [HttpServer] [info] ------------connectTest-------------
+[2022-09-29 15:28:21.733] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:21.734] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:21.734] [HttpServer] [info] ev : 7
+[2022-09-29 15:28:21.734] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:21.736] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:21.736] [HttpServer] [info] ev : 6
+[2022-09-29 15:28:21.736] [HttpServer] [info] ev : 9
+[2022-09-29 15:28:21.736] [HttpServer] [info] method: POST
+[2022-09-29 15:28:21.736] [HttpServer] [info] uri: /connectTest
+[2022-09-29 15:28:21.736] [HttpServer] [info] ------------connectTest-------------
+[2022-09-29 15:28:21.737] [HttpServer] [info] ------------body: 1664436501
+[2022-09-29 15:28:21.737] [HttpServer] [info] time_now: Thu Sep 29 15:28:21 2022
+
+[2022-09-29 15:28:21.737] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:21.737] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:21.738] [HttpServer] [info] ev : 7
+[2022-09-29 15:28:21.738] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:22.740] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:22.742] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:23.744] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:23.744] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:24.178] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:24.178] [HttpServer] [info] ev : 6
+[2022-09-29 15:28:24.179] [HttpServer] [info] ev : 9
+[2022-09-29 15:28:24.180] [HttpServer] [info] method: POST
+[2022-09-29 15:28:24.180] [HttpServer] [info] uri: /connectTest
+[2022-09-29 15:28:24.180] [HttpServer] [info] ------------connectTest-------------
+[2022-09-29 15:28:24.180] [HttpServer] [info] ------------body: 1664436504
+[2022-09-29 15:28:24.181] [HttpServer] [info] time_now: Thu Sep 29 15:28:24 2022
+
+[2022-09-29 15:28:24.181] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:24.181] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:24.182] [HttpServer] [info] ev : 7
+[2022-09-29 15:28:24.183] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:25.186] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:25.188] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:26.189] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:26.190] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:26.269] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:26.272] [HttpServer] [info] ev : 6
+[2022-09-29 15:28:26.273] [HttpServer] [info] ev : 9
+[2022-09-29 15:28:26.274] [HttpServer] [info] method: POST
+[2022-09-29 15:28:26.274] [HttpServer] [info] uri: /connectTest
+[2022-09-29 15:28:26.274] [HttpServer] [info] ------------connectTest-------------
+[2022-09-29 15:28:26.275] [HttpServer] [info] ------------body: 1664436506
+[2022-09-29 15:28:26.276] [HttpServer] [info] time_now: Thu Sep 29 15:28:26 2022
+
+[2022-09-29 15:28:26.276] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:26.276] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:26.277] [HttpServer] [info] ev : 7
+[2022-09-29 15:28:26.277] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:27.279] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:27.281] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:27.621] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:27.622] [HttpServer] [info] ev : 6
+[2022-09-29 15:28:27.623] [HttpServer] [info] ev : 9
+[2022-09-29 15:28:27.623] [HttpServer] [info] method: OPTIONS
+[2022-09-29 15:28:27.624] [HttpServer] [info] uri: /connectTest
+[2022-09-29 15:28:27.624] [HttpServer] [info] ------------connectTest-------------
+[2022-09-29 15:28:27.624] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:27.625] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:27.626] [HttpServer] [info] ev : 7
+[2022-09-29 15:28:27.626] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:27.627] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:27.627] [HttpServer] [info] ev : 6
+[2022-09-29 15:28:27.628] [HttpServer] [info] ev : 9
+[2022-09-29 15:28:27.628] [HttpServer] [info] method: POST
+[2022-09-29 15:28:27.628] [HttpServer] [info] uri: /connectTest
+[2022-09-29 15:28:27.628] [HttpServer] [info] ------------connectTest-------------
+[2022-09-29 15:28:27.628] [HttpServer] [info] ------------body: 1664436507
+[2022-09-29 15:28:27.629] [HttpServer] [info] time_now: Thu Sep 29 15:28:27 2022
+
+[2022-09-29 15:28:27.629] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:27.630] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:27.630] [HttpServer] [info] ev : 7
+[2022-09-29 15:28:27.631] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:28.633] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:28.634] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:29.635] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:29.636] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:30.638] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:30.639] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:31.641] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:31.642] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:31.820] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:31.821] [HttpServer] [info] ev : 6
+[2022-09-29 15:28:31.822] [HttpServer] [info] ev : 9
+[2022-09-29 15:28:31.822] [HttpServer] [info] method: POST
+[2022-09-29 15:28:31.823] [HttpServer] [info] uri: /connectTest
+[2022-09-29 15:28:31.824] [HttpServer] [info] ------------connectTest-------------
+[2022-09-29 15:28:31.824] [HttpServer] [info] ------------body: 1664436511
+[2022-09-29 15:28:31.824] [HttpServer] [info] time_now: Thu Sep 29 15:28:31 2022
+
+[2022-09-29 15:28:31.825] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:31.825] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:31.826] [HttpServer] [info] ev : 7
+[2022-09-29 15:28:31.826] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:32.204] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:32.205] [HttpServer] [info] ev : 6
+[2022-09-29 15:28:32.205] [HttpServer] [info] ev : 9
+[2022-09-29 15:28:32.206] [HttpServer] [info] method: OPTIONS
+[2022-09-29 15:28:32.206] [HttpServer] [info] uri: /addChipUser
+[2022-09-29 15:28:32.206] [HttpServer] [info] ------------addChipUser-------------
+[2022-09-29 15:28:32.209] [HttpServer] [info] bmessage: OPTIONS /addChipUser HTTP/1.1
+Host: 180.201.13.217:8102
+Connection: keep-alive
+Accept: */*
+Access-Control-Request-Method: POST
+Access-Control-Request-Headers: content-type
+Origin: http://180.201.4.171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+Sec-Fetch-Mode: cors
+Referer: http://180.201.4.171/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+
+[2022-09-29 15:28:32.210] [HttpServer] [info] body: 
+[2022-09-29 15:28:32.214] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:32.214] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:32.215] [HttpServer] [info] ev : 7
+[2022-09-29 15:28:32.215] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:32.217] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:32.217] [HttpServer] [info] ev : 6
+[2022-09-29 15:28:32.217] [HttpServer] [info] ev : 9
+[2022-09-29 15:28:32.217] [HttpServer] [info] method: POST
+[2022-09-29 15:28:32.217] [HttpServer] [info] uri: /addChipUser
+[2022-09-29 15:28:32.218] [HttpServer] [info] ------------addChipUser-------------
+[2022-09-29 15:28:32.218] [HttpServer] [info] bmessage: POST /addChipUser HTTP/1.1
+Host: 180.201.13.217:8102
+Connection: keep-alive
+Content-Length: 41
+Accept: application/json, text/plain, */*
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+Content-Type: application/json;charset=UTF-8
+Origin: http://180.201.4.171
+Referer: http://180.201.4.171/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+{"username":"vsislab18","password":"123"}
+[2022-09-29 15:28:32.218] [HttpServer] [info] body: {"username":"vsislab18","password":"123"}
+[2022-09-29 15:28:32.220] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:32.220] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:32.221] [HttpServer] [info] ev : 7
+[2022-09-29 15:28:32.221] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:33.223] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:33.224] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:34.226] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:34.227] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:35.229] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:35.229] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:36.231] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:36.231] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:37.234] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:37.236] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:38.237] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:38.238] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:39.240] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:39.241] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:40.243] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:40.243] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:41.245] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:41.246] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:42.248] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:42.249] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:43.252] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:43.253] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:44.255] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:44.255] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:45.258] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:45.260] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:46.262] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:46.262] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:47.264] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:47.264] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:48.266] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:48.282] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:49.285] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:49.287] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:50.289] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:50.289] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:51.292] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:51.295] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:52.297] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:52.299] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:53.301] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:53.313] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:54.315] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:54.317] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:55.318] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:55.319] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:56.322] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:56.323] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:57.325] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:57.327] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:58.329] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:58.330] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:59.332] [HttpServer] [info] ev : 2
+[2022-09-29 15:28:59.333] [HttpServer] [info] ev : 2
+[2022-09-29 15:29:00.336] [HttpServer] [info] ev : 2
+[2022-09-29 15:29:00.338] [HttpServer] [info] ev : 2
+[2022-09-29 15:29:00.952] [HttpServer] [info] ev : 2
+[2022-09-29 15:29:00.952] [HttpServer] [info] ev : 6
+[2022-09-29 15:29:00.956] [HttpServer] [info] ev : 9
+[2022-09-29 15:29:00.956] [HttpServer] [info] method: OPTIONS
+[2022-09-29 15:29:00.956] [HttpServer] [info] uri: /connectTest
+[2022-09-29 15:29:00.957] [HttpServer] [info] ------------connectTest-------------
+[2022-09-29 15:29:00.957] [HttpServer] [info] ev : 2
+[2022-09-29 15:29:00.958] [HttpServer] [info] ev : 2
+[2022-09-29 15:29:00.959] [HttpServer] [info] ev : 7
+[2022-09-29 15:29:00.959] [HttpServer] [info] ev : 2
+[2022-09-29 15:29:00.960] [HttpServer] [info] ev : 2
+[2022-09-29 15:29:00.960] [HttpServer] [info] ev : 6
+[2022-09-29 15:29:00.960] [HttpServer] [info] ev : 9
+[2022-09-29 15:29:00.960] [HttpServer] [info] method: POST
+[2022-09-29 15:29:00.960] [HttpServer] [info] uri: /connectTest
+[2022-09-29 15:29:00.961] [HttpServer] [info] ------------connectTest-------------
+[2022-09-29 15:29:00.961] [HttpServer] [info] ------------body: 1664436540
+[2022-09-29 15:29:00.961] [HttpServer] [info] time_now: Thu Sep 29 15:29:00 2022
+
+[2022-09-29 15:29:00.961] [HttpServer] [info] ev : 2
+[2022-09-29 15:29:00.961] [HttpServer] [info] ev : 2
+[2022-09-29 15:29:00.962] [HttpServer] [info] ev : 7
+[2022-09-29 15:29:00.962] [HttpServer] [info] ev : 2
+[2022-09-29 15:29:00.965] [HttpServer] [info] ev : 2
+[2022-09-29 15:29:00.965] [HttpServer] [info] ev : 6
+[2022-09-29 15:29:00.966] [HttpServer] [info] ev : 9
+[2022-09-29 15:29:00.966] [HttpServer] [info] method: OPTIONS
+[2022-09-29 15:29:00.966] [HttpServer] [info] uri: /getCurrentFn
+[2022-09-29 15:29:00.966] [HttpServer] [info] ------------getCurrentFn-------------
+[2022-09-29 15:29:00.967] [HttpServer] [info] bmessage: OPTIONS /getCurrentFn HTTP/1.1
+Host: 180.201.13.217:8102
+Connection: keep-alive
+Accept: */*
+Access-Control-Request-Method: POST
+Access-Control-Request-Headers: content-type
+Origin: http://180.201.4.171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+Sec-Fetch-Mode: cors
+Referer: http://180.201.4.171/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+
+[2022-09-29 15:29:00.968] [HttpServer] [info] body: 
+[2022-09-29 15:29:00.968] [HttpServer] [error] not find %s
+[2022-09-30 17:20:51.166] [FTP] [info] host:180.201.4.171
+[2022-09-30 17:20:51.166] [FTP] [info] PORT:21
+[2022-09-30 17:20:51.166] [FTP] [info] user:test
+[2022-09-30 17:20:51.166] [FTP] [info] pwd:123
+[2022-09-30 17:20:51.166] [FTP] [info] MODEL_path:/app/model/
+[2022-09-30 17:20:51.166] [FTP] [info] PROGRAM_path:/app/bin/
+[2022-09-30 17:20:51.166] [FTP] [info] CONFIG_path:/app/json/
+[2022-09-30 17:20:51.166] [FTP] [info] PARAM_path:/app/json/
+[2022-09-30 17:20:51.166] [FTP] [info] LIB_path:/app/lib/
+[2022-09-30 17:20:51.166] [FTP] [info] START_path:/app/
+[2022-09-30 17:22:43.919] [FTP] [info] host:180.201.4.171
+[2022-09-30 17:22:43.920] [FTP] [info] PORT:21
+[2022-09-30 17:22:43.920] [FTP] [info] user:test
+[2022-09-30 17:22:43.920] [FTP] [info] pwd:123
+[2022-09-30 17:22:43.920] [FTP] [info] MODEL_path:/home/nvidia/System/model/
+[2022-09-30 17:22:43.920] [FTP] [info] PROGRAM_path:/home/nvidia/System/bin/
+[2022-09-30 17:22:43.920] [FTP] [info] CONFIG_path:/home/nvidia/System/json/
+[2022-09-30 17:22:43.920] [FTP] [info] PARAM_path:/home/nvidia/System/json/
+[2022-09-30 17:22:43.920] [FTP] [info] LIB_path:/home/nvidia/System/lib/
+[2022-09-30 17:22:43.920] [FTP] [info] START_path:/home/nvidia/System/
+[2022-09-30 17:24:00.051] [FTP] [info] host:180.201.4.171
+[2022-09-30 17:24:00.052] [FTP] [info] PORT:21
+[2022-09-30 17:24:00.052] [FTP] [info] user:test
+[2022-09-30 17:24:00.052] [FTP] [info] pwd:123
+[2022-09-30 17:24:00.052] [FTP] [info] MODEL_path:/home/nvidia/System/model/
+[2022-09-30 17:24:00.052] [FTP] [info] PROGRAM_path:/home/nvidia/System/bin/
+[2022-09-30 17:24:00.052] [FTP] [info] CONFIG_path:/home/nvidia/System/json/
+[2022-09-30 17:24:00.052] [FTP] [info] PARAM_path:/home/nvidia/System/json/
+[2022-09-30 17:24:00.052] [FTP] [info] LIB_path:/home/nvidia/System/lib/
+[2022-09-30 17:24:00.052] [FTP] [info] START_path:/home/nvidia/System/
+[2022-09-30 17:24:31.320] [HttpServer] [info] url:http://0.0.0.0:8102
+[2022-09-30 17:24:31.320] [HttpServer] [info] ev : 1
+[2022-09-30 17:24:31.320] [HttpServer] [info] wait listen
+[2022-09-30 17:24:32.322] [HttpServer] [info] ev : 2
+[2022-09-30 17:24:33.326] [HttpServer] [info] ev : 2
+[2022-09-30 17:24:34.330] [HttpServer] [info] ev : 2
+[2022-09-30 17:24:35.333] [HttpServer] [info] ev : 2
+[2022-09-30 17:24:36.336] [HttpServer] [info] ev : 2
+[2022-09-30 17:24:37.339] [HttpServer] [info] ev : 2
+[2022-09-30 17:24:38.343] [HttpServer] [info] ev : 2
+[2022-09-30 17:24:39.359] [HttpServer] [info] ev : 2
+[2022-09-30 17:24:40.361] [HttpServer] [info] ev : 2
+[2022-09-30 17:24:41.364] [HttpServer] [info] ev : 2
+[2022-09-30 17:24:42.366] [HttpServer] [info] ev : 2
+[2022-09-30 17:24:43.370] [HttpServer] [info] ev : 2
+[2022-09-30 17:24:44.385] [HttpServer] [info] ev : 2
+[2022-09-30 17:24:45.387] [HttpServer] [info] ev : 2
+[2022-09-30 17:24:46.389] [HttpServer] [info] ev : 2
+[2022-09-30 17:24:47.392] [HttpServer] [info] ev : 2
+[2022-09-30 17:24:48.396] [HttpServer] [info] ev : 2
+[2022-09-30 17:24:49.400] [HttpServer] [info] ev : 2
+[2022-09-30 17:24:50.404] [HttpServer] [info] ev : 2
+[2022-09-30 17:24:51.406] [HttpServer] [info] ev : 2
+[2022-09-30 17:24:52.408] [HttpServer] [info] ev : 2
+[2022-09-30 17:24:53.412] [HttpServer] [info] ev : 2
+[2022-09-30 17:24:54.415] [HttpServer] [info] ev : 2
+[2022-09-30 17:24:55.430] [HttpServer] [info] ev : 2
+[2022-09-30 17:24:56.433] [HttpServer] [info] ev : 2
+[2022-09-30 17:24:57.436] [HttpServer] [info] ev : 2
+[2022-09-30 17:24:58.438] [HttpServer] [info] ev : 2
+[2022-09-30 17:24:59.441] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:00.444] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:00.550] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:00.552] [HttpServer] [info] ev : 1
+[2022-09-30 17:25:00.553] [HttpServer] [info] ev : 5
+[2022-09-30 17:25:00.553] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:00.554] [HttpServer] [info] ev : 6
+[2022-09-30 17:25:00.555] [HttpServer] [info] ev : 9
+[2022-09-30 17:25:00.556] [HttpServer] [info] method: OPTIONS
+[2022-09-30 17:25:00.556] [HttpServer] [info] uri: /connectTest
+[2022-09-30 17:25:00.558] [HttpServer] [info] ------------connectTest-------------
+[2022-09-30 17:25:00.559] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:00.560] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:00.560] [HttpServer] [info] ev : 7
+[2022-09-30 17:25:00.560] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:00.561] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:00.561] [HttpServer] [info] ev : 6
+[2022-09-30 17:25:00.561] [HttpServer] [info] ev : 9
+[2022-09-30 17:25:00.562] [HttpServer] [info] method: POST
+[2022-09-30 17:25:00.562] [HttpServer] [info] uri: /connectTest
+[2022-09-30 17:25:00.562] [HttpServer] [info] ------------connectTest-------------
+[2022-09-30 17:25:00.562] [HttpServer] [info] ------------body: 1664529900
+[2022-09-30 17:25:00.563] [HttpServer] [info] time_now: Fri Sep 30 17:25:00 2022
+
+[2022-09-30 17:25:00.563] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:00.563] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:00.563] [HttpServer] [info] ev : 7
+[2022-09-30 17:25:00.564] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:01.566] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:01.567] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:02.569] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:02.571] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:03.573] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:03.574] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:03.776] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:03.777] [HttpServer] [info] ev : 6
+[2022-09-30 17:25:03.780] [HttpServer] [info] ev : 9
+[2022-09-30 17:25:03.780] [HttpServer] [info] method: POST
+[2022-09-30 17:25:03.780] [HttpServer] [info] uri: /connectTest
+[2022-09-30 17:25:03.781] [HttpServer] [info] ------------connectTest-------------
+[2022-09-30 17:25:03.781] [HttpServer] [info] ------------body: 1664529903
+[2022-09-30 17:25:03.781] [HttpServer] [info] time_now: Fri Sep 30 17:25:03 2022
+
+[2022-09-30 17:25:03.783] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:03.783] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:03.783] [HttpServer] [info] ev : 7
+[2022-09-30 17:25:03.784] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:04.785] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:04.788] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:05.790] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:05.793] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:06.482] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:06.485] [HttpServer] [info] ev : 6
+[2022-09-30 17:25:06.486] [HttpServer] [info] ev : 9
+[2022-09-30 17:25:06.486] [HttpServer] [info] method: OPTIONS
+[2022-09-30 17:25:06.487] [HttpServer] [info] uri: /connectTest
+[2022-09-30 17:25:06.487] [HttpServer] [info] ------------connectTest-------------
+[2022-09-30 17:25:06.488] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:06.488] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:06.489] [HttpServer] [info] ev : 7
+[2022-09-30 17:25:06.489] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:06.491] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:06.491] [HttpServer] [info] ev : 6
+[2022-09-30 17:25:06.491] [HttpServer] [info] ev : 9
+[2022-09-30 17:25:06.492] [HttpServer] [info] method: POST
+[2022-09-30 17:25:06.492] [HttpServer] [info] uri: /connectTest
+[2022-09-30 17:25:06.492] [HttpServer] [info] ------------connectTest-------------
+[2022-09-30 17:25:06.492] [HttpServer] [info] ------------body: 1664529906
+[2022-09-30 17:25:06.492] [HttpServer] [info] time_now: Fri Sep 30 17:25:06 2022
+
+[2022-09-30 17:25:06.492] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:06.493] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:06.493] [HttpServer] [info] ev : 7
+[2022-09-30 17:25:06.493] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:06.873] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:06.874] [HttpServer] [info] ev : 6
+[2022-09-30 17:25:06.876] [HttpServer] [info] ev : 9
+[2022-09-30 17:25:06.876] [HttpServer] [info] method: OPTIONS
+[2022-09-30 17:25:06.876] [HttpServer] [info] uri: /addChipUser
+[2022-09-30 17:25:06.877] [HttpServer] [info] ------------addChipUser-------------
+[2022-09-30 17:25:06.878] [HttpServer] [info] bmessage: OPTIONS /addChipUser HTTP/1.1
+Host: 180.201.13.217:8102
+Connection: keep-alive
+Accept: */*
+Access-Control-Request-Method: POST
+Access-Control-Request-Headers: content-type
+Origin: http://180.201.4.171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+Sec-Fetch-Mode: cors
+Referer: http://180.201.4.171/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+
+[2022-09-30 17:25:06.879] [HttpServer] [info] body: 
+[2022-09-30 17:25:06.882] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:06.882] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:06.882] [HttpServer] [info] ev : 7
+[2022-09-30 17:25:06.882] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:06.884] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:06.884] [HttpServer] [info] ev : 6
+[2022-09-30 17:25:06.884] [HttpServer] [info] ev : 9
+[2022-09-30 17:25:06.885] [HttpServer] [info] method: POST
+[2022-09-30 17:25:06.885] [HttpServer] [info] uri: /addChipUser
+[2022-09-30 17:25:06.885] [HttpServer] [info] ------------addChipUser-------------
+[2022-09-30 17:25:06.885] [HttpServer] [info] bmessage: POST /addChipUser HTTP/1.1
+Host: 180.201.13.217:8102
+Connection: keep-alive
+Content-Length: 41
+Accept: application/json, text/plain, */*
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+Content-Type: application/json;charset=UTF-8
+Origin: http://180.201.4.171
+Referer: http://180.201.4.171/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+{"username":"vsislab19","password":"123"}
+[2022-09-30 17:25:06.886] [HttpServer] [info] body: {"username":"vsislab19","password":"123"}
+[2022-09-30 17:25:06.887] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:06.887] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:06.888] [HttpServer] [info] ev : 7
+[2022-09-30 17:25:06.888] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:07.890] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:07.892] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:08.894] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:08.894] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:09.896] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:09.897] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:10.900] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:10.902] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:11.903] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:11.904] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:12.906] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:12.907] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:13.909] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:13.910] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:14.912] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:14.912] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:15.914] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:15.926] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:16.928] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:16.929] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:17.930] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:17.931] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:18.933] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:18.934] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:19.936] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:19.937] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:20.939] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:20.940] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:21.942] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:21.944] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:22.945] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:22.946] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:23.949] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:23.951] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:24.953] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:24.955] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:25.957] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:25.958] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:26.960] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:26.960] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:27.962] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:27.962] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:28.965] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:28.967] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:29.969] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:29.971] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:30.973] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:30.974] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:31.976] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:31.977] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:32.979] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:32.981] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:33.982] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:33.983] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:34.986] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:34.987] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:35.989] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:35.991] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:36.993] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:36.995] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:37.784] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:37.785] [HttpServer] [info] ev : 6
+[2022-09-30 17:25:37.787] [HttpServer] [info] ev : 9
+[2022-09-30 17:25:37.789] [HttpServer] [info] method: OPTIONS
+[2022-09-30 17:25:37.789] [HttpServer] [info] uri: /connectTest
+[2022-09-30 17:25:37.789] [HttpServer] [info] ------------connectTest-------------
+[2022-09-30 17:25:37.790] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:37.791] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:37.791] [HttpServer] [info] ev : 7
+[2022-09-30 17:25:37.792] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:37.793] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:37.793] [HttpServer] [info] ev : 6
+[2022-09-30 17:25:37.793] [HttpServer] [info] ev : 9
+[2022-09-30 17:25:37.793] [HttpServer] [info] method: POST
+[2022-09-30 17:25:37.794] [HttpServer] [info] uri: /connectTest
+[2022-09-30 17:25:37.794] [HttpServer] [info] ------------connectTest-------------
+[2022-09-30 17:25:37.794] [HttpServer] [info] ------------body: 1664529937
+[2022-09-30 17:25:37.794] [HttpServer] [info] time_now: Fri Sep 30 17:25:37 2022
+
+[2022-09-30 17:25:37.794] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:37.795] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:37.795] [HttpServer] [info] ev : 7
+[2022-09-30 17:25:37.796] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:37.805] [HttpServer] [info] ev : 2
+[2022-09-30 17:25:37.805] [HttpServer] [info] ev : 6
+[2022-09-30 17:25:37.806] [HttpServer] [info] ev : 9
+[2022-09-30 17:25:37.806] [HttpServer] [info] method: OPTIONS
+[2022-09-30 17:25:37.806] [HttpServer] [info] uri: /getCurrentFn
+[2022-09-30 17:25:37.808] [HttpServer] [info] ------------getCurrentFn-------------
+[2022-09-30 17:25:37.810] [HttpServer] [info] bmessage: OPTIONS /getCurrentFn HTTP/1.1
+Host: 180.201.13.217:8102
+Connection: keep-alive
+Accept: */*
+Access-Control-Request-Method: POST
+Access-Control-Request-Headers: content-type
+Origin: http://180.201.4.171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+Sec-Fetch-Mode: cors
+Referer: http://180.201.4.171/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+
+[2022-09-30 17:25:37.810] [HttpServer] [info] body: 
+[2022-09-30 17:25:37.811] [HttpServer] [error] not find %s
+[2022-09-30 17:29:18.019] [HttpServer] [info] url:http://0.0.0.0:8102
+[2022-09-30 17:29:18.019] [HttpServer] [info] ev : 1
+[2022-09-30 17:29:18.019] [HttpServer] [info] wait listen
+[2022-09-30 17:29:19.021] [HttpServer] [info] ev : 2
+[2022-09-30 17:29:20.023] [HttpServer] [info] ev : 2
+[2022-09-30 17:29:21.025] [HttpServer] [info] ev : 2
+[2022-09-30 17:29:22.028] [HttpServer] [info] ev : 2
+[2022-09-30 17:29:23.030] [HttpServer] [info] ev : 2
+[2022-09-30 17:29:24.035] [HttpServer] [info] ev : 2
+[2022-09-30 17:29:25.037] [HttpServer] [info] ev : 2
+[2022-09-30 17:29:26.039] [HttpServer] [info] ev : 2
+[2022-09-30 17:29:27.041] [HttpServer] [info] ev : 2
+[2022-09-30 17:29:28.043] [HttpServer] [info] ev : 2
+[2022-09-30 17:29:29.045] [HttpServer] [info] ev : 2
+[2022-09-30 17:29:30.048] [HttpServer] [info] ev : 2
+[2022-09-30 17:29:31.050] [HttpServer] [info] ev : 2
+[2022-09-30 17:29:32.052] [HttpServer] [info] ev : 2
+[2022-09-30 17:29:33.054] [HttpServer] [info] ev : 2
+[2022-09-30 17:29:34.056] [HttpServer] [info] ev : 2
+[2022-09-30 17:29:35.057] [HttpServer] [info] ev : 2
+[2022-09-30 17:29:36.059] [HttpServer] [info] ev : 2
+[2022-09-30 17:29:37.061] [HttpServer] [info] ev : 2
+[2022-09-30 17:29:38.063] [HttpServer] [info] ev : 2
+[2022-09-30 17:29:39.064] [HttpServer] [info] ev : 2
+[2022-09-30 17:29:40.066] [HttpServer] [info] ev : 2
+[2022-09-30 17:29:41.067] [HttpServer] [info] ev : 2
+[2022-09-30 17:29:42.069] [HttpServer] [info] ev : 2
+[2022-09-30 17:29:43.071] [HttpServer] [info] ev : 2
+[2022-09-30 17:29:44.072] [HttpServer] [info] ev : 2
+[2022-09-30 17:29:45.074] [HttpServer] [info] ev : 2
+[2022-09-30 17:29:46.075] [HttpServer] [info] ev : 2
+[2022-09-30 17:29:47.077] [HttpServer] [info] ev : 2
+[2022-09-30 17:29:48.079] [HttpServer] [info] ev : 2
+[2022-09-30 17:29:49.081] [HttpServer] [info] ev : 2
+[2022-09-30 17:29:50.083] [HttpServer] [info] ev : 2
+[2022-09-30 17:29:51.085] [HttpServer] [info] ev : 2
+[2022-09-30 17:29:52.087] [HttpServer] [info] ev : 2
+[2022-09-30 17:29:53.089] [HttpServer] [info] ev : 2
+[2022-09-30 17:29:54.091] [HttpServer] [info] ev : 2
+[2022-09-30 17:29:55.093] [HttpServer] [info] ev : 2
+[2022-09-30 17:29:56.095] [HttpServer] [info] ev : 2
+[2022-09-30 17:29:57.096] [HttpServer] [info] ev : 2
+[2022-09-30 17:29:58.098] [HttpServer] [info] ev : 2
+[2022-09-30 17:29:59.100] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:00.102] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:01.104] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:02.105] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:03.107] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:04.108] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:05.110] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:06.112] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:07.113] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:08.115] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:09.117] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:10.119] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:11.122] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:12.123] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:13.125] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:14.127] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:15.129] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:16.131] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:17.133] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:18.135] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:19.137] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:20.139] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:21.141] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:22.142] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:23.144] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:24.146] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:25.148] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:26.149] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:27.151] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:28.153] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:29.155] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:30.157] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:31.160] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:32.161] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:33.163] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:34.165] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:35.166] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:36.169] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:37.171] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:38.172] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:39.174] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:40.176] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:40.774] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:40.775] [HttpServer] [info] ev : 1
+[2022-09-30 17:30:40.775] [HttpServer] [info] ev : 5
+[2022-09-30 17:30:40.775] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:40.776] [HttpServer] [info] ev : 6
+[2022-09-30 17:30:40.776] [HttpServer] [info] ev : 9
+[2022-09-30 17:30:40.776] [HttpServer] [info] method: OPTIONS
+[2022-09-30 17:30:40.777] [HttpServer] [info] uri: /connectTest
+[2022-09-30 17:30:40.777] [HttpServer] [info] ------------connectTest-------------
+[2022-09-30 17:30:40.778] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:40.778] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:40.780] [HttpServer] [info] ev : 7
+[2022-09-30 17:30:40.780] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:40.780] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:40.780] [HttpServer] [info] ev : 6
+[2022-09-30 17:30:40.780] [HttpServer] [info] ev : 9
+[2022-09-30 17:30:40.780] [HttpServer] [info] method: POST
+[2022-09-30 17:30:40.780] [HttpServer] [info] uri: /connectTest
+[2022-09-30 17:30:40.781] [HttpServer] [info] ------------connectTest-------------
+[2022-09-30 17:30:40.781] [HttpServer] [info] ------------body: 1664530240
+[2022-09-30 17:30:40.781] [HttpServer] [info] time_now: Fri Sep 30 17:30:40 2022
+
+[2022-09-30 17:30:40.782] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:40.782] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:40.782] [HttpServer] [info] ev : 7
+[2022-09-30 17:30:40.782] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:40.785] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:40.785] [HttpServer] [info] ev : 6
+[2022-09-30 17:30:40.785] [HttpServer] [info] ev : 9
+[2022-09-30 17:30:40.785] [HttpServer] [info] method: OPTIONS
+[2022-09-30 17:30:40.785] [HttpServer] [info] uri: /getCurrentFn
+[2022-09-30 17:30:40.785] [HttpServer] [info] ------------getCurrentFn-------------
+[2022-09-30 17:30:40.785] [HttpServer] [info] bmessage: OPTIONS /getCurrentFn HTTP/1.1
+Host: 180.201.13.217:8102
+Connection: keep-alive
+Accept: */*
+Access-Control-Request-Method: POST
+Access-Control-Request-Headers: content-type
+Origin: http://180.201.4.171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+Sec-Fetch-Mode: cors
+Referer: http://180.201.4.171/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+
+[2022-09-30 17:30:40.785] [HttpServer] [info] body: 
+[2022-09-30 17:30:40.786] [HttpServer] [info] fnId: -1
+[2022-09-30 17:30:40.786] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:40.786] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:40.786] [HttpServer] [info] ev : 7
+[2022-09-30 17:30:40.786] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:40.787] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:40.787] [HttpServer] [info] ev : 6
+[2022-09-30 17:30:40.787] [HttpServer] [info] ev : 9
+[2022-09-30 17:30:40.787] [HttpServer] [info] method: POST
+[2022-09-30 17:30:40.787] [HttpServer] [info] uri: /getCurrentFn
+[2022-09-30 17:30:40.788] [HttpServer] [info] ------------getCurrentFn-------------
+[2022-09-30 17:30:40.788] [HttpServer] [info] bmessage: POST /getCurrentFn HTTP/1.1
+Host: 180.201.13.217:8102
+Connection: keep-alive
+Content-Length: 2
+Accept: application/json, text/plain, */*
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+Content-Type: application/json;charset=UTF-8
+Origin: http://180.201.4.171
+Referer: http://180.201.4.171/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+{}
+[2022-09-30 17:30:40.788] [HttpServer] [info] body: {}
+[2022-09-30 17:30:40.788] [HttpServer] [info] fnId: -1
+[2022-09-30 17:30:40.788] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:40.788] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:40.788] [HttpServer] [info] ev : 7
+[2022-09-30 17:30:40.788] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:41.790] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:41.790] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:42.792] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:42.792] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:43.794] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:43.794] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:44.795] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:44.796] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:45.797] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:45.797] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:46.799] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:46.800] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:47.802] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:47.804] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:48.805] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:48.806] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:49.808] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:49.809] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:50.811] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:50.812] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:51.813] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:51.814] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:52.815] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:52.815] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:53.817] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:53.817] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:54.819] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:54.819] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:55.821] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:55.821] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:56.823] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:56.823] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:57.825] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:57.827] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:58.829] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:58.830] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:59.831] [HttpServer] [info] ev : 2
+[2022-09-30 17:30:59.831] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:00.833] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:00.833] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:01.835] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:01.835] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:02.837] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:02.837] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:03.839] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:03.840] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:04.841] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:04.841] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:05.843] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:05.843] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:06.845] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:06.845] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:07.847] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:07.848] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:08.849] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:08.850] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:09.851] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:09.852] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:10.854] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:10.855] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:11.856] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:11.856] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:12.858] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:12.859] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:13.861] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:13.861] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:14.863] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:14.864] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:15.865] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:15.866] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:16.867] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:16.868] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:17.869] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:17.869] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:18.871] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:18.872] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:19.873] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:19.874] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:20.875] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:20.876] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:21.877] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:21.877] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:22.880] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:22.881] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:23.883] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:23.884] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:24.885] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:24.886] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:25.887] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:25.888] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:26.890] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:26.890] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:27.891] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:27.892] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:28.894] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:28.894] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:29.895] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:29.896] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:30.897] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:30.898] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:31.899] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:31.900] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:32.901] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:32.902] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:33.903] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:33.904] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:34.905] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:34.906] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:35.907] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:35.907] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:36.909] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:36.909] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:37.910] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:37.911] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:38.690] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:38.690] [HttpServer] [info] ev : 6
+[2022-09-30 17:31:38.690] [HttpServer] [info] ev : 9
+[2022-09-30 17:31:38.690] [HttpServer] [info] method: OPTIONS
+[2022-09-30 17:31:38.691] [HttpServer] [info] uri: /connectTest
+[2022-09-30 17:31:38.691] [HttpServer] [info] ------------connectTest-------------
+[2022-09-30 17:31:38.691] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:38.692] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:38.692] [HttpServer] [info] ev : 7
+[2022-09-30 17:31:38.693] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:38.694] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:38.695] [HttpServer] [info] ev : 6
+[2022-09-30 17:31:38.695] [HttpServer] [info] ev : 9
+[2022-09-30 17:31:38.695] [HttpServer] [info] method: POST
+[2022-09-30 17:31:38.695] [HttpServer] [info] uri: /connectTest
+[2022-09-30 17:31:38.695] [HttpServer] [info] ------------connectTest-------------
+[2022-09-30 17:31:38.695] [HttpServer] [info] ------------body: 1664530298
+[2022-09-30 17:31:38.696] [HttpServer] [info] time_now: Fri Sep 30 17:31:38 2022
+
+[2022-09-30 17:31:38.697] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:38.697] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:38.697] [HttpServer] [info] ev : 7
+[2022-09-30 17:31:38.697] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:38.701] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:38.701] [HttpServer] [info] ev : 6
+[2022-09-30 17:31:38.701] [HttpServer] [info] ev : 9
+[2022-09-30 17:31:38.701] [HttpServer] [info] method: OPTIONS
+[2022-09-30 17:31:38.702] [HttpServer] [info] uri: /modelFile
+[2022-09-30 17:31:38.702] [HttpServer] [info] ------------modelFile-------------
+[2022-09-30 17:31:38.702] [HttpServer] [info] bmessage: OPTIONS /modelFile HTTP/1.1
+Host: 180.201.13.217:8102
+Connection: keep-alive
+Accept: */*
+Access-Control-Request-Method: POST
+Access-Control-Request-Headers: content-type
+Origin: http://180.201.4.171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+Sec-Fetch-Mode: cors
+Referer: http://180.201.4.171/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+
+[2022-09-30 17:31:38.702] [HttpServer] [info] body: 
+[2022-09-30 17:31:38.702] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:38.702] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:38.703] [HttpServer] [info] ev : 7
+[2022-09-30 17:31:38.703] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:38.705] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:38.705] [HttpServer] [info] ev : 6
+[2022-09-30 17:31:38.706] [HttpServer] [info] ev : 9
+[2022-09-30 17:31:38.706] [HttpServer] [info] method: POST
+[2022-09-30 17:31:38.706] [HttpServer] [info] uri: /modelFile
+[2022-09-30 17:31:38.706] [HttpServer] [info] ------------modelFile-------------
+[2022-09-30 17:31:38.707] [HttpServer] [info] bmessage: POST /modelFile HTTP/1.1
+Host: 180.201.13.217:8102
+Connection: keep-alive
+Content-Length: 1316
+Accept: application/json, text/plain, */*
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+Content-Type: application/json;charset=UTF-8
+Origin: http://180.201.4.171
+Referer: http://180.201.4.171/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+
+{"chipId":19,"modelFileArray":[{"searchValue":null,"createBy":null,"createTime":null,"deleted":null,"updateBy":null,"updateTime":"2022-08-22 17:14:25","remark":null,"params":{},"fileId":8,"fnId":8,"fileType":"LIB","fileName":"libInterfaces.so","filePath":"/8/libInterfaces_1661159665871.so"},{"searchValue":null,"createBy":null,"createTime":null,"deleted":null,"updateBy":null,"updateTime":"2022-08-22 17:14:25","remark":null,"params":{},"fileId":9,"fnId":8,"fileType":"START","fileName":"startapp.sh","filePath":"/8/startapp_1661159665871.sh"},{"searchValue":null,"createBy":null,"createTime":null,"deleted":null,"updateBy":null,"updateTime":"2022-08-22 17:14:26","remark":null,"params":{},"fileId":10,"fnId":8,"fileType":"LIB","fileName":"libyolov5.so","filePath":"/8/libyolov5_1661159666291.so"},{"searchValue":null,"createBy":null,"createTime":null,"deleted":null,"updateBy":null,"updateTime":"2022-08-22 17:14:27","remark":null,"params":{},"fileId":11,"fnId":8,"fileType":"MODEL","fileName":"yolov5-mask.wk","filePath":"/8/yolov5-mask_1661159667108.wk"},{"searchValue":null,"createBy":null,"createTime":null,"deleted":null,"updateBy":null,"updateTime":"2022-08-22 17:14:27","remark":null,"params":{},"fileId":12,"fnId":8,"fileType":"PROGRAM","fileName":"svp_sys.exe","filePath":"/8/svp_sys_1661159667402.exe"}]}
+[2022-09-30 17:31:38.708] [HttpServer] [info] body: {"chipId":19,"modelFileArray":[{"searchValue":null,"createBy":null,"createTime":null,"deleted":null,"updateBy":null,"updateTime":"2022-08-22 17:14:25","remark":null,"params":{},"fileId":8,"fnId":8,"fileType":"LIB","fileName":"libInterfaces.so","filePath":"/8/libInterfaces_1661159665871.so"},{"searchValue":null,"createBy":null,"createTime":null,"deleted":null,"updateBy":null,"updateTime":"2022-08-22 17:14:25","remark":null,"params":{},"fileId":9,"fnId":8,"fileType":"START","fileName":"startapp.sh","filePath":"/8/startapp_1661159665871.sh"},{"searchValue":null,"createBy":null,"createTime":null,"deleted":null,"updateBy":null,"updateTime":"2022-08-22 17:14:26","remark":null,"params":{},"fileId":10,"fnId":8,"fileType":"LIB","fileName":"libyolov5.so","filePath":"/8/libyolov5_1661159666291.so"},{"searchValue":null,"createBy":null,"createTime":null,"deleted":null,"updateBy":null,"updateTime":"2022-08-22 17:14:27","remark":null,"params":{},"fileId":11,"fnId":8,"fileType":"MODEL","fileName":"yolov5-mask.wk","filePath":"/8/yolov5-mask_1661159667108.wk"},{"searchValue":null,"createBy":null,"createTime":null,"deleted":null,"updateBy":null,"updateTime":"2022-08-22 17:14:27","remark":null,"params":{},"fileId":12,"fnId":8,"fileType":"PROGRAM","fileName":"svp_sys.exe","filePath":"/8/svp_sys_1661159667402.exe"}]}
+[2022-09-30 17:31:38.711] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:38.712] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:38.712] [HttpServer] [info] ev : 7
+[2022-09-30 17:31:38.712] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:39.713] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:39.714] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:40.445] [FTP] [info] get fnId:8
+[2022-09-30 17:31:40.472] [FTP] [info] dest path: /home/nvidia/System/lib/libInterfaces.so
+[2022-09-30 17:31:40.544] [FTP] [info] dest path: /home/nvidia/System/startapp.sh
+[2022-09-30 17:31:40.562] [FTP] [info] dest path: /home/nvidia/System/lib/libyolov5.so
+[2022-09-30 17:31:40.715] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:40.715] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:40.814] [FTP] [info] dest path: /home/nvidia/System/model/yolov5-mask.wk
+[2022-09-30 17:31:41.479] [FTP] [info] dest path: /home/nvidia/System/bin/svp_sys.exe
+[2022-09-30 17:31:41.479] [FTP] [info] success read size: 10889234
+[2022-09-30 17:31:41.479] [FTP] [info] start reboot ....
+[2022-09-30 17:31:41.718] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:41.721] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:42.724] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:42.725] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:43.727] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:43.728] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:44.730] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:44.731] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:45.733] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:45.733] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:46.736] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:46.737] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:47.740] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:47.741] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:48.744] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:48.745] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:49.725] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:49.728] [HttpServer] [info] ev : 6
+[2022-09-30 17:31:49.729] [HttpServer] [info] ev : 9
+[2022-09-30 17:31:49.729] [HttpServer] [info] method: OPTIONS
+[2022-09-30 17:31:49.729] [HttpServer] [info] uri: /connectTest
+[2022-09-30 17:31:49.730] [HttpServer] [info] ------------connectTest-------------
+[2022-09-30 17:31:49.730] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:49.730] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:49.732] [HttpServer] [info] ev : 7
+[2022-09-30 17:31:49.732] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:49.733] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:49.734] [HttpServer] [info] ev : 6
+[2022-09-30 17:31:49.734] [HttpServer] [info] ev : 9
+[2022-09-30 17:31:49.735] [HttpServer] [info] method: POST
+[2022-09-30 17:31:49.735] [HttpServer] [info] uri: /connectTest
+[2022-09-30 17:31:49.735] [HttpServer] [info] ------------connectTest-------------
+[2022-09-30 17:31:49.736] [HttpServer] [info] ------------body: 1664530309
+[2022-09-30 17:31:49.736] [HttpServer] [info] time_now: Fri Sep 30 17:31:49 2022
+
+[2022-09-30 17:31:49.736] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:49.736] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:49.736] [HttpServer] [info] ev : 7
+[2022-09-30 17:31:49.736] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:50.739] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:50.740] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:51.743] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:51.744] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:52.747] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:52.749] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:53.751] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:53.752] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:54.754] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:54.756] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:55.758] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:55.758] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:56.761] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:56.762] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:57.764] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:57.766] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:58.768] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:58.769] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:59.771] [HttpServer] [info] ev : 2
+[2022-09-30 17:31:59.772] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:00.775] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:00.777] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:01.778] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:01.779] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:02.781] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:02.794] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:03.796] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:03.797] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:04.798] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:04.799] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:05.801] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:05.801] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:06.804] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:06.806] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:07.808] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:07.829] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:08.831] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:08.832] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:09.835] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:09.836] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:10.839] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:10.841] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:11.843] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:11.844] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:12.847] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:12.854] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:13.862] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:13.864] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:14.865] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:14.866] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:15.868] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:15.869] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:16.871] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:16.872] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:17.874] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:17.875] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:18.878] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:18.880] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:19.883] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:19.884] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:20.886] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:20.887] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:21.889] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:21.890] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:22.892] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:22.893] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:23.894] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:23.898] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:24.900] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:24.900] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:25.902] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:25.902] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:26.903] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:26.904] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:27.905] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:27.906] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:28.908] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:28.908] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:29.910] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:29.910] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:30.911] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:30.912] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:31.913] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:31.913] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:32.915] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:32.916] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:33.917] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:33.917] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:34.919] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:34.920] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:35.921] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:35.921] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:36.922] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:36.923] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:37.925] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:37.925] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:38.927] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:38.928] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:39.929] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:39.929] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:40.931] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:40.931] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:41.933] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:41.933] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:42.935] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:42.935] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:43.937] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:43.937] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:44.938] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:44.938] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:45.941] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:45.941] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:46.944] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:46.945] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:47.946] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:47.946] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:48.948] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:48.949] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:49.951] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:49.952] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:50.954] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:50.954] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:51.956] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:51.956] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:52.957] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:52.958] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:53.959] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:53.960] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:54.961] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:54.961] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:55.963] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:55.964] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:56.965] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:56.966] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:57.967] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:57.968] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:58.969] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:58.970] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:59.971] [HttpServer] [info] ev : 2
+[2022-09-30 17:32:59.972] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:00.973] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:00.974] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:01.975] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:01.975] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:02.977] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:02.977] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:03.979] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:03.979] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:04.981] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:04.981] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:05.983] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:05.983] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:06.986] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:06.988] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:07.989] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:07.990] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:08.992] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:08.993] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:09.994] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:09.994] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:10.995] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:10.996] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:11.997] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:11.998] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:12.999] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:12.999] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:14.001] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:14.001] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:15.003] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:15.004] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:16.005] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:16.005] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:17.007] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:17.007] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:18.009] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:18.009] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:19.010] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:19.011] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:20.013] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:20.013] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:21.014] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:21.015] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:22.016] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:22.017] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:23.018] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:23.018] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:24.020] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:24.020] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:25.021] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:25.022] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:26.023] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:26.023] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:27.025] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:27.025] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:28.026] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:28.026] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:29.028] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:29.028] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:30.030] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:30.031] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:31.033] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:31.033] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:32.035] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:32.035] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:33.037] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:33.037] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:34.039] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:34.039] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:35.041] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:35.041] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:36.042] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:36.043] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:37.044] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:37.045] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:38.046] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:38.047] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:39.048] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:39.048] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:40.049] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:40.049] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:41.051] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:41.051] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:42.053] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:42.053] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:43.055] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:43.055] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:44.057] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:44.057] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:45.058] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:45.059] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:46.060] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:46.061] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:47.063] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:47.064] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:48.065] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:48.066] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:49.067] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:49.068] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:50.069] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:50.070] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:51.072] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:51.072] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:52.074] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:52.075] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:53.076] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:53.077] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:54.079] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:54.079] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:55.081] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:55.081] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:56.082] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:56.083] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:57.084] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:57.085] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:58.087] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:58.087] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:59.089] [HttpServer] [info] ev : 2
+[2022-09-30 17:33:59.089] [HttpServer] [info] ev : 2
+[2022-09-30 17:34:00.091] [HttpServer] [info] ev : 2
+[2022-09-30 17:34:00.091] [HttpServer] [info] ev : 2
+[2022-09-30 17:34:01.093] [HttpServer] [info] ev : 2
+[2022-09-30 17:34:01.093] [HttpServer] [info] ev : 2
+[2022-09-30 17:34:02.094] [HttpServer] [info] ev : 2
+[2022-09-30 17:34:02.095] [HttpServer] [info] ev : 2
+[2022-09-30 17:34:03.099] [HttpServer] [info] ev : 2
+[2022-09-30 17:34:03.100] [HttpServer] [info] ev : 2
+[2022-09-30 17:34:04.101] [HttpServer] [info] ev : 2
+[2022-09-30 17:34:04.102] [HttpServer] [info] ev : 2
+[2022-09-30 17:34:05.103] [HttpServer] [info] ev : 2
+[2022-09-30 17:34:05.104] [HttpServer] [info] ev : 2
+[2022-09-30 17:34:06.105] [HttpServer] [info] ev : 2
+[2022-09-30 17:34:06.105] [HttpServer] [info] ev : 2
+[2022-09-30 17:34:07.107] [HttpServer] [info] ev : 2
+[2022-09-30 17:34:07.107] [HttpServer] [info] ev : 2
+[2022-09-30 17:34:08.109] [HttpServer] [info] ev : 2
+[2022-09-30 17:34:08.109] [HttpServer] [info] ev : 2
+[2022-09-30 17:34:09.110] [HttpServer] [info] ev : 2
+[2022-09-30 17:34:09.111] [HttpServer] [info] ev : 2
+[2022-09-30 17:34:10.113] [HttpServer] [info] ev : 2
+[2022-09-30 17:34:10.114] [HttpServer] [info] ev : 2
+[2022-09-30 17:34:11.116] [HttpServer] [info] ev : 2
+[2022-09-30 17:34:11.117] [HttpServer] [info] ev : 2
+[2022-09-30 17:34:12.118] [HttpServer] [info] ev : 2
+[2022-09-30 17:34:12.120] [HttpServer] [info] ev : 2
+[2022-09-30 17:34:13.121] [HttpServer] [info] ev : 2
+[2022-09-30 17:34:13.121] [HttpServer] [info] ev : 2
+[2022-09-30 17:34:14.123] [HttpServer] [info] ev : 2
+[2022-09-30 17:34:14.124] [HttpServer] [info] ev : 2
+[2022-09-30 17:34:15.125] [HttpServer] [info] ev : 2
+[2022-09-30 17:34:15.126] [HttpServer] [info] ev : 2
+[2022-09-30 17:34:16.128] [HttpServer] [info] ev : 2
+[2022-09-30 17:34:16.129] [HttpServer] [info] ev : 2
+[2022-09-30 17:34:17.131] [HttpServer] [info] ev : 2
+[2022-09-30 17:34:17.132] [HttpServer] [info] ev : 2
+[2022-09-30 17:34:18.134] [HttpServer] [info] ev : 2
+[2022-09-30 17:34:18.134] [HttpServer] [info] ev : 2
+[2022-09-30 17:34:19.135] [HttpServer] [info] ev : 2
+[2022-09-30 17:34:19.136] [HttpServer] [info] ev : 2
+[2022-09-30 17:34:20.137] [HttpServer] [info] ev : 2
+[2022-09-30 17:34:20.138] [HttpServer] [info] ev : 2
+[2022-09-30 17:34:21.139] [HttpServer] [info] ev : 2
+[2022-09-30 17:34:21.140] [HttpServer] [info] ev : 2
+[2022-09-30 17:34:22.141] [HttpServer] [info] ev : 2
+[2022-09-30 17:34:22.142] [HttpServer] [info] ev : 2
+[2022-09-30 17:34:23.143] [HttpServer] [info] ev : 2
+[2022-09-30 17:34:23.143] [HttpServer] [info] ev : 2
+[2022-09-30 17:34:24.145] [HttpServer] [info] ev : 2
+[2022-09-30 17:34:24.145] [HttpServer] [info] ev : 2
+[2022-09-30 17:34:25.147] [HttpServer] [info] ev : 2
+[2022-09-30 17:34:25.147] [HttpServer] [info] ev : 2
+                                                                                                                                                                                                                                                                                                                                                                                   

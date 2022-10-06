@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/HttpServer.exe.dir/main.cpp.o CMakeFiles/HttpServer.exe.dir/src/bcflag.cpp.o CMakeFiles/HttpServer.exe.dir/src/cfg.cpp.o  -o bin/HttpServer.exe libmongoose.a 

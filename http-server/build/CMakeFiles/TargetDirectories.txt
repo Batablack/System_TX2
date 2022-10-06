@@ -1,0 +1,4 @@
+/tmp/http-server/build/CMakeFiles/edit_cache.dir
+/tmp/http-server/build/CMakeFiles/mongoose.dir
+/tmp/http-server/build/CMakeFiles/rebuild_cache.dir
+/tmp/http-server/build/CMakeFiles/HttpServer.exe.dir

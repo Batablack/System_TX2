@@ -1,0 +1,20 @@
+{
+    "ftp_cfg":{
+    "host":"180.201.4.171",
+    "port":21,
+    "user":"test",
+    "pwd":"123",
+    "MODEL_path":"/home/nvidia/System/model/",
+    "PROGRAM_path":"/home/nvidia/System/bin/",
+    "CONFIG_path":"/home/nvidia/System/json/",
+    "PARAM_path":"/home/nvidia/System/json/",
+    "LIB_path":"/home/nvidia/System/lib/",
+    "START_path":"/home/nvidia/System/"
+            },
+    "HttpServer_cfg":{
+    "url":"http://0.0.0.0:8102"
+    }
+}
+
+
+

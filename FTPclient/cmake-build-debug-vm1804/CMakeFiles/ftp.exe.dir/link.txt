@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/ftp.exe.dir/demo.cpp.o CMakeFiles/ftp.exe.dir/src/THFTPAPI.c.o CMakeFiles/ftp.exe.dir/src/rjson.cpp.o CMakeFiles/ftp.exe.dir/src/bcflag.cpp.o CMakeFiles/ftp.exe.dir/src/FTPcfg.cpp.o  -o ftp.exe 

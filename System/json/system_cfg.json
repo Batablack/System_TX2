@@ -1,0 +1,32 @@
+{
+    "ftp_cfg":{
+    "host":"180.201.4.171",
+    "port":21,
+    "user":"test",
+    "pwd":"123",
+    "MODEL_path":"/home/nvidia/System/model/",
+    "PROGRAM_path":"/home/nvidia/System/bin/",
+    "CONFIG_path":"/home/nvidia/System/json/",
+    "PARAM_path":"/home/nvidia/System/json/",
+    "LIB_path":"/home/nvidia/System/lib/",
+    "START_path":"/home/nvidia/System/"
+            },
+    "HttpClient_cfg":{
+    "s_url":"http://180.201.4.171/dev-api/login",
+    "p_url":"http://180.201.4.171/dev-api/settings/result/addMultiple",
+    "compress_control":5,
+    "draw_rectangle":1,
+    "coord":1,
+    "score":1,
+    "time":1,
+    "class_name":1,
+    "image":1,
+    "sleep_time":5
+    },
+    "HttpServer_cfg":{
+    "url":"http://0.0.0.0:8102"
+    }
+}
+
+
+
