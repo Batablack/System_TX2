@@ -16,6 +16,7 @@
           </mappings>
           <excludedPaths>
             <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-vm1804" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-vm1804" />
           </excludedPaths>
         </serverdata>
       </paths>
@@ -29,7 +30,7 @@
       <paths name="wsl (8111cbf4-8009-4b84-a00c-4657656fa15e)">
         <serverdata>
           <mappings>
-            <mapping local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="/tmp/FTPclient" local="$PROJECT_DIR$" />
           </mappings>
         </serverdata>
       </paths>

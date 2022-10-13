@@ -45,6 +45,7 @@ bool loadcfg(const char* path,ftp_cfg_para& ftpCfgPara)
     ftpCfgPara.PARAM_path = ftpcfg.at("PARAM_path");
     ftpCfgPara.LIB_path = ftpcfg.at("LIB_path");
     ftpCfgPara.START_path = ftpcfg.at("START_path");
+    ftpCfgPara.ZIP_path = ftpcfg.at("ZIP_path");
     cout << "FTP CFG DONE"<<endl;
 }
 
@@ -60,6 +61,7 @@ bool showcfg(const ftp_cfg_para& ftpCfgPara,std::shared_ptr<logger> file_logger)
     file_logger->info("PARAM_path:{}",ftpCfgPara.PARAM_path);
     file_logger->info("LIB_path:{}",ftpCfgPara.LIB_path);
     file_logger->info("START_path:{}",ftpCfgPara.START_path);
+    file_logger->info("ZIP_path:{}",ftpCfgPara.ZIP_path);
     return true;
 }
 

@@ -9,7 +9,8 @@
     "CONFIG_path":"/home/nvidia/System/json/",
     "PARAM_path":"/home/nvidia/System/json/",
     "LIB_path":"/home/nvidia/System/lib/",
-    "START_path":"/home/nvidia/System/"
+    "START_path":"/home/nvidia/System/",
+    "ZIP_path":"/home/nvidia/zip/"
             },
     "HttpServer_cfg":{
     "url":"http://0.0.0.0:8102"

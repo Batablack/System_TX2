@@ -20,6 +20,7 @@ struct ftp_cfg_para
     string PARAM_path;
     string LIB_path;
     string START_path;
+    string ZIP_path;
 };
 
 static const char *Bpath = "/home/nvidia/System/";

@@ -60,6 +60,12 @@ string get_json_save_path(const char *ftype,const char *fname)
         path = path + fname;
         return path;
     }
+    if (strcmp(ftype,"ZIP") == 0)
+    {
+        path = ftp_cfg.START_path;
+        path = path + fname;
+        return path;
+    }
 
 }
 
